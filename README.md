@@ -17,16 +17,12 @@
 
 <br />
 
-<div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="600" height="300"/>
-</div>
-
 ---
 
 # :man_technologist: About Me :
 I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I'm a EPAM JS Lab student.
+- :telescope: Full-time EPAM employee.
 
 - :seedling: Exploring Technical Content Writing.
 
