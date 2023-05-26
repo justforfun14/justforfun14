@@ -1,35 +1,3 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/ivan-gusak-2468b418a/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn Badge"
-    />
-  </a>
-</div>
-
-<div align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=justforfun14&style=flat-square&color=blue"
-    alt=""
-    align="center"
-  />
-</div>
-
-<br />
-
----
-
-# :man_technologist: About Me :
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-- :telescope: Full-time EPAM employee.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve some tasks on LeetCode / Codewars and watch related tech videos.
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -47,7 +15,4 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justforfun14&theme=dark&background=000000)](https://git.io/streak-stats)
-<br />
 [![codewars](https://www.codewars.com/users/justforfun14/badges/large)](https://www.codewars.com/users/justforfun14) 
